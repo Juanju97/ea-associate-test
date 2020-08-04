@@ -39,7 +39,9 @@ Once we have analyzed the problem, it's time to propose a methodology or work fl
 
 ![title](images/methodology.png)
 
-For each task in this flow work, there is a notebook where all the research and implementation has been done. Please, check them out:
+This work flow has been developed since Friday, July 31 when I start analyzing the problem statement an start creating this repository, until deadline date on Tuesday, August 4.
+
+For each task in this roadmap, there is a notebook where all the research and implementation has been done. Please, check them out:
 
  * [Data Exploration](notebooks/2.%20Data%20Exploration.ipynb)
 
