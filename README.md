@@ -51,7 +51,8 @@ For each task in this roadmap, there is a notebook where all the research and im
  
  * [Test Classification Model](notebooks/4.1.%20Classification%20Test.ipynb)
 
- * [Topic Modeling](notebooks/5.%Topic%20Modeling.html)
+ * [Topic Modeling](notebooks/5.%20Topic%20Modeling.html)
+
 
 ---
 ## Conclusions
